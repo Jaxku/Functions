@@ -4,3 +4,6 @@ def print_name(name, number):
 
 
 # Main routine
+name_ = input("Enter name to print: ")
+number_ = int(input("Times to print: "))
+print_name(name_, number_)
